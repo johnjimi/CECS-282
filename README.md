@@ -2,7 +2,7 @@
 C++ Programming
 Spring 2015
                               
-                                          Instructions:
+                                             Notes / Instructions:
 
                           1. I left some projects out incomplete for you script kiddies. 
                           2. Its better to actually know what you are doing then copy paste.
